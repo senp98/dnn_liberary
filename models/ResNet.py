@@ -6,7 +6,6 @@ Reference:
     Deep Residual Learning for Image Recognition. arXiv:1512.03385
 [2] https://github.com/somepago/dbViz/blob/main/models/resnet.py
 '''
-import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
